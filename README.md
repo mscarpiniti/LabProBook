@@ -1,4 +1,6 @@
-# Laboratorio di programmazione - ## MATLAB® per l'Ingegneria dell'Informazione
+# Laboratorio di programmazione - MATLAB® per l'Ingegneria dell'Informazione
+
+![LabProBook](/Files/LabProBook.jpg)
 
 ### Descrizione
 
