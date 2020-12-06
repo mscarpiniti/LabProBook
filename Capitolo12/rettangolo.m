@@ -12,9 +12,7 @@ function [S, P] = rettangolo(a, b)
 % Versione 1.0.
 % 30/06/2016 ---- M. Scarpiniti (Dip. DIET, Sapienza Università di Roma)
 
-if nargin > 2
-    error('Troppi parametri in input');
-elseif nargin < 1
+if nargin < 1
     error('Nessun parametro inserito');
 elseif nargin == 1
     b = 1;
