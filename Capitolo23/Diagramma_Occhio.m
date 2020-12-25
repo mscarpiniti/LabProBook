@@ -11,5 +11,5 @@ y = pskmod(x, M, phi0);
 z1 = awgn(y, SNR1);
 eyediagram(z1, 2);
 
-z2 = qwgn(y, SNR2);
+z2 = awgn(y, SNR2);
 eyediagram(z2, 2);
