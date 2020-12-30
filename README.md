@@ -1,4 +1,4 @@
-# Laboratorio di programmazione - MATLAB® per l'Ingegneria dell'Informazione
+# Laboratorio di programmazione - MATLAB® per l'Ingegnere dell'Informazione
 
 ![LabProBook](/Files/LabProBook.jpg)
 
@@ -41,7 +41,7 @@ Il libro è nato dall'esperienza dell'autore nell'insegnamento di MATLAB® nel c
 19. Il filtraggio
 20. Correlazione e predizione
 21. L'ottimizzazione
-22. I controlli
+22. I sistemi di controlli
 23. Le modulazioni
 24. Le immagini 
 
