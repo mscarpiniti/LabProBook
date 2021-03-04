@@ -2,6 +2,9 @@
 
 ![LabProBook](/Files/LabProBook.jpg)
 
+## Disponibile su [Amazon](https://www.amazon.it/dp/B08JLHQKJH)
+
+
 ### Descrizione
 
 Il testo è rivolto a tutti gli studenti dei corsi di Laurea in Ingegneria dell'Informazione e si pone l'obiettivo di introdurre gli elementi basilari della programmazione in linguaggio MATLAB® e le sue applicazioni in tipiche problematiche dell'Ingegneria dell'Informazione. La trattazione dei vari argomenti avviene in maniera graduale ed è arricchita da numerosi esempi applicativi. Si parte dalle nozioni elementari sui fondamenti dell'ambiente e del linguaggio MATLAB® per arrivare, passo dopo passo, al suo utilizzo in applicazioni non banali. Il codice di tutti gli esempi proposti nel testo è reso disponibile online per il download.
