@@ -2,6 +2,8 @@
 
 ![LabProBook](/Files/LabProBook.jpg)
 
+### [Frontespizio](https://drive.google.com/file/d/13TBhlW3YTe-584i8wV8e1IVW4Su3zS1K/view?usp=sharing)
+
 ## Disponibile su [Amazon](https://www.amazon.it/dp/B08JLHQKJH)
 
 
