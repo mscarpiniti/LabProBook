@@ -1,14 +1,14 @@
 classdef MiaClasse
-% Una classe con due propriet‡ e due metodi che calcolano
-% la somma e il prodotto delle due propriet‡.
+% Una classe con due propriet√† e due metodi che calcolano
+% la somma e il prodotto delle due propriet√†.
 % Utilizzo:
 %   m = MiaClasse;
 %
 % Vedi anche: ....
 
    properties(Access = private)
-      a = 3;  % Primo parametro
-	  b = 2;  % Secondo parametro
+       a = 3;  % Primo parametro
+       b = 2;  % Secondo parametro
    end
    
    properties(Constant)
@@ -17,12 +17,12 @@ classdef MiaClasse
 
    methods
       function s = Somma(obj)
-      % Calcola la somma delle due propriet‡
+      % Calcola la somma delle due propriet√†
          s = obj.a + obj.b;  % Semplice esempio
       end
 
       function p = Prodotto(obj)
-      % Calcola il prodotto delle due propriet‡
+      % Calcola il prodotto delle due propriet√†
          p = obj.a * obj.b;
       end
       
