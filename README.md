@@ -29,13 +29,13 @@ Il libro è nato dall'esperienza dell'autore nell'insegnamento di MATLAB® nel c
 5. Il controllo di flusso
 6. I vettori e le matrici
 7. Le celle e le tabelle
-8. I polinomi
-9. I grafici
-10. La statistica
-11. L'input e l'output
-12. Creare nuove funzioni
-13. Il calcolo simbolico
-14. Metodi numerici
+8. L'input e l'output
+9. Creare nuove funzioni
+10. I polinomi
+11. I grafici
+12. La statistica
+13. Metodi numerici
+14. Il calcolo simbolico
 15. Il debugger e il profiler
 16. Matlab e gli oggetti
 17. Le GUI
