@@ -5,12 +5,12 @@
 Fs = 1000;
 t = 0:1/Fs:4;
 x = sawtooth(2*pi*50*t, 0.5);
+L = length(x);
 X = fft(x);
 M = abs(X);
 F = angle(X);
 F2 = unwrap(F);
 
-L = length(X);
 f = (0:L-1)*(Fs/L);
 plot(f,M)
 subplot(1,2,1);
